@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## TheArpOfNetworking
 
-You can use the [editor on GitHub](https://github.com/codeswithjon/codeswithjon.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Thanks for visiting my blog! You've found a space where all the content is written by myself. Enjoy what you like? I encourage you to let me know by tweeting me @smashingpackets. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
